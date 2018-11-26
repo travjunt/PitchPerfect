@@ -12,8 +12,8 @@
 		1FE2B4191EFDC15A00A3A272 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE2B4181EFDC15A00A3A272 /* RecordSoundsViewController.swift */; };
 		1FE2B41E1EFDC15A00A3A272 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FE2B41D1EFDC15A00A3A272 /* Assets.xcassets */; };
 		1FE2B4211EFDC15A00A3A272 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FE2B41F1EFDC15A00A3A272 /* LaunchScreen.storyboard */; };
-		1FE2B4291EFDC1E800A3A272 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE2B4281EFDC1E800A3A272 /* PlaySoundsViewController.swift */; };
 		1FE2B42B1EFDC20600A3A272 /* PlaySoundsViewController+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE2B42A1EFDC20600A3A272 /* PlaySoundsViewController+Audio.swift */; };
+		1FFB192A1F02C17A00CDA998 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE2B4281EFDC1E800A3A272 /* PlaySoundsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -143,9 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FFB192A1F02C17A00CDA998 /* PlaySoundsViewController.swift in Sources */,
 				1FE2B4191EFDC15A00A3A272 /* RecordSoundsViewController.swift in Sources */,
 				1FE2B42B1EFDC20600A3A272 /* PlaySoundsViewController+Audio.swift in Sources */,
-				1FE2B4291EFDC1E800A3A272 /* PlaySoundsViewController.swift in Sources */,
 				1FE2B4171EFDC15A00A3A272 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
